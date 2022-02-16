@@ -1,5 +1,8 @@
 _repo: A-Selection-of-Cases-on-the-Law-of-Torts_67258
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67258-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Ames, James Barr
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '54177'
     url: http://www.gutenberg.org/2009/agents/54177
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67258#A-Selection-of-Cases-on-the-Law-of-Torts
 gutenberg_issued: '2022-01-27'
 identifiers:
   gutenberg: '67258'
